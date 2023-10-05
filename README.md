@@ -1,2 +1,3 @@
-# VinhPham2106.github.io
-Hosting my nooby CTF cheatsheet
+# Hacking writeups and cheatsheets
+
+TL;DR: Well TL;DW
