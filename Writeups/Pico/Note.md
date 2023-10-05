@@ -1,0 +1,1 @@
+Pico's webs are easy, so beginner forensics and reverse and pwn are the focus here.
